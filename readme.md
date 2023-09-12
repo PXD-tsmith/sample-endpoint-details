@@ -1,4 +1,4 @@
-## Sample API Endpoint Documentation
+## Sample API Endpoint Documentation | Using "4.0 Create Analysis UX" Design as an Example
 
 **Endpoint:** `/path/to/endpoint`
 **Method:** `POST`
